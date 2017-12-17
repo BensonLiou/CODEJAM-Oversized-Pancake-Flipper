@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+d:\github\codejam-oversized-pancake-flipper\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): warning C4018: '<=': signed/unsigned mismatch
+d:\github\codejam-oversized-pancake-flipper\consoleapplication1\consoleapplication1\consoleapplication1.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> D:\Github\CODEJAM-Oversized-Pancake-Flipper\ConsoleApplication1\Debug\ConsoleApplication1.exe
